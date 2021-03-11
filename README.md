@@ -1,6 +1,6 @@
 # :octocat: Github Explorer
 
-<p align="center">Primeiro projeto desenvolvido no Bootcamp Ignite na trilha React, ministrado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
+<p align="center">Primeiro desafio do Bootcamp Ignite na trilha React, ministrado pela <a href="https://github.com/rocketseat">Rocketseat</a>. Ele consiste em criar uma lista de To Dos, onde é possível acrescentar novas tarefas, marcá-las como concluídas, remover tarefas e atualizar a lista da mesma.</p>
 
 ### :pushpin: Conteúdo
 
